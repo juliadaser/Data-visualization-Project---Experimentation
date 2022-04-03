@@ -14,9 +14,9 @@ dick = Dick()
 
 # creating various different objects from the library Circle() I created: Input are (1) the coordinates in form (x, y) and (2) pressure of touch
 circle1 = Circle((100, 200), 2)
-circle2 = Circle((0,0), 10)
-circle3 = Circle((0,0), 8)
-circle4 = Circle((0,0), 6)
-circle5 = Circle((0,0), 9)
+circle2 = Circle((500,300), 10)
+circle3 = Circle((-660,-250), 8)
+circle4 = Circle((0,230), 6)
+circle5 = Circle((300,0), 9)
 
 screen.exitonclick()
